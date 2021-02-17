@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+.image1 {
+  background-image: url(https://picsum.photos/1001/700);
+}
+.image2 {
+  background-image: url(https://picsum.photos/1002/700);
+}
+.image3 {
+  background-image: url(https://picsum.photos/1003/700);
+}
+.image4 {
+  background-image: url(https://picsum.photos/1004/700);
+}
+.image5 {
+  background-image: url(https://picsum.photos/1005/700);
+}
+
+#container {
+  height: 700px;
+}
